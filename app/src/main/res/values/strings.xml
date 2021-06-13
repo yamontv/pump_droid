@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pump Bot</string>
+    <string name="server_address">Server Address</string>
+    <string name="button_connect">Connect</string>
+    <string name="quote_currency">Quote Currency</string>
+    <string name="balance_percentage">Balance Persentage</string>
+    <string name="buy_percentage">Buy Percentage</string>
+    <string name="sell_percentage">Sell Percentage</string>
+    <string name="prepump_percentage">Prepump Percentage</string>
+    <string name="tg_channels">Telegram Channels</string>
+    <string name="parser">Parser</string>
+    <string name="button_save">Save</string>
+    <string name="button_load">Load</string>
+    <string name="button_set_settings">Set Settings</string>
+    <string name="button_disconnect">Disconnect</string>
+    <string name="allow_trading">Allow Trading</string>
+    <string name="button_activate">Activate</string>
+    <string name="connect_fail">Connection Failed</string>
+    <string name="connecting">Connecting</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+</resources>
